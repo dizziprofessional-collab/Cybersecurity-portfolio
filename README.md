@@ -1,17 +1,11 @@
 # Cybersecurity-portfolio
 This repository contains cybersecurity tools I built while learning network security and advanced Python.
 
-## Projects
-
+## Projects:
 # Python Port Scanner
-A tool that scans a target IP to detect open TCP ports. (ReadMe)
+A tool that scans a target IP to detect open TCP ports.
+[Python Port Scanner](LINK_TO_REPO)
 
 # Python Packet Sniffer
 A tool that captures network packets and extracts source and destination IP information. (ReadMe)
-
-
-
-
-
-# [Python Port Scanner]
-# [Python Packet Sniffer]
+[Python Packet Sniffer](LINK_TO_REPO)
