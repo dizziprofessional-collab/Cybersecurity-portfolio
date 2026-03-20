@@ -13,3 +13,11 @@ A tool that captures network packets and extracts source and destination IP info
 # Password Brute Force
 A tool that goes through a text file of over 100k passwords and stops when it finds the correct one.
 [Password Brute Force](https://github.com/dizziprofessional-collab/Password_Bruteforce)
+
+# Network Scanner
+A tool that identifies active devices on a subnet by attempting TCP connections.
+[Network Scanner](https://github.com/dizziprofessional-collab/Network-Scanner)
+
+# Login System
+A tool that securely verifies user credentials using SHA-256 password hashing.
+[Login System](https://github.com/dizziprofessional-collab/Login_System)
